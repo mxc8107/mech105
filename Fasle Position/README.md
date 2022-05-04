@@ -1,1 +1,1 @@
-
+This algorthm works to find the root of a function using the false position method. The function will oscillate between two points until it reaches the root or it completes too many iterations or the error is within 0.0001%.

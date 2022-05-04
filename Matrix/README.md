@@ -1,1 +1,1 @@
-
+This algorithm makes the first row and colum go in ascending order from 1 to the number of desired size. Then the middle section, takes the number to the left and the number above and adds them together to give that specific value. There is also an error statement so that if there isn't 2 inputs, one for rows and one for columns, then the program won't run. 

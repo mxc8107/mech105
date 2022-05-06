@@ -1,1 +1,1 @@
-
+We were tasked to reorder the data points so that they would go from smallest to largest for the y and switch the xin the same way. After, we were told to find the slope and intercepts so that we could then find R^2 for the line. 

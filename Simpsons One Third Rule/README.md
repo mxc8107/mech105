@@ -1,1 +1,1 @@
-
+We were tasked to create a function that would solve Simpsons 1/3 rule. This code had to recognize if we had to use the trapizoid rule for only two points or if there was a different time it would need to be used. We also needed to check and make sure that all of the conditions were met before. 

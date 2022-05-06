@@ -1,1 +1,1 @@
-
+We had to recreate the LU Factorization using code. We had to make sure that the rows would pivot correctly and figure out if they needed pivoting or not. We also needed the code to solve for L, U, & P as 3 different matricies
